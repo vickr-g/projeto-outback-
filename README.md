@@ -1,8 +1,8 @@
 # Site Outback
 
-![](./img/)
+![](./img/img-site.png)
 
-[CLIQUE AQUI PARA ABRIR O SITE](vickr-g.github.io)
+[CLIQUE AQUI PARA ABRIR O SITE](https://vickr-g.github.io/projeto-outback-/)
 
 ---
 ## Sobre
@@ -16,5 +16,5 @@ Site do tipo landing page para divulgar o meu site sobre o restaurante Outback. 
 - Markdown
 ---
 ## Autor
--[Victoria Gindre](https://github.com/vickr-g)# projeto-outback
-# projeto-outback-
+-[Victoria Gindre](https://github.com/vickr-g)
+
